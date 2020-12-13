@@ -1,0 +1,11 @@
+#普通数据类型
+name: zhangshan
+
+#对象的配置
+person:
+  name: zhangshan
+  age: 18
+  addr: beijing
+
+server:
+  port: 8082
